@@ -1,7 +1,7 @@
 ## Welcome to Minlong Peng's Homepage
 
 ### About Me
-<img align="left" width="99" height="132" src="/my_phote_in_hawaii.jpeg">
+<img align="left" width="120" height="158" src="/my_phote_in_hawaii.jpeg">
 
 I am now working at the Cognitive Computing Lab, Baidu Inc. as an algorithm expert. I obtained a Ph.D. degree in the School of Computer Science at Fudan University (2021/06), advised by Prof. [Qi Zhang](http://qizhang.info/) and Prof. [Xuanjing Huang](http://www.cs.fudan.edu.cn/en/?page_id=1836). Prior to joining in FudanNLP, I obtained my bachelor degree from School of Automation, Sun Yat-Sen University in 2016. It’s my honor to have worked with Prof. [Weishi Zheng](http://sist.sysu.edu.cn/~zhwshi/) from SYSU, Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. [Jing Liu](http://www.machinereading.ai/) from Microsoft Research Asia, and Mr. Changlong Sun and Mr. Kang Le from Alibaba DAMO Academy.
 
