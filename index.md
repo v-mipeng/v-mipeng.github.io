@@ -33,7 +33,7 @@ Intern in Knowledge Computing Group
 ### News
 
 - **I am hiring interns!**
-Please feel free to contact me if you are interested in my research directions. Master Ph.D. candiates of Computer Science are preferred.
+Please feel free to contact me if you are interested in my research directions. Master and Ph.D. candiates of Computer Science are preferred.
 
 ### Selected Publications
 
