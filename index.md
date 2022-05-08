@@ -3,13 +3,13 @@
 ### About Me
 <img align="left" width="120" height="158" src="/my_phote_in_hawaii.jpeg">
 
-I am now working at the Cognitive Computing Lab, Baidu Inc. as an algorithm expert. I obtained a Ph.D. degree in the School of Computer Science at Fudan University (2021/06), advised by Prof. [Qi Zhang](http://qizhang.info/) and Prof. [Xuanjing Huang](http://www.cs.fudan.edu.cn/en/?page_id=1836). Prior to joining in FudanNLP, I obtained my bachelor degree from School of Automation, Sun Yat-Sen University in 2016. It’s my honor to have worked with Prof. [Weishi Zheng](http://sist.sysu.edu.cn/~zhwshi/) from SYSU, Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. [Jing Liu](http://www.machinereading.ai/) from Microsoft Research Asia, and Mr. Changlong Sun and Mr. Kang Le from Alibaba DAMO Academy.
+I am now working at the Cognitive Computing Lab, Baidu Inc., as an algorithm expert. I obtained a Ph.D. degree in the School of Computer Science at Fudan University (2021/06), advised by Prof. [Qi Zhang](http://qizhang.info/) and Prof. [Xuanjing Huang](http://www.cs.fudan.edu.cn/en/?page_id=1836). Prior to joining in FudanNLP, I obtained my bachelor degree from School of Automation, Sun Yat-Sen University in 2016. It’s my honor to have worked with Prof. [Weishi Zheng](http://sist.sysu.edu.cn/~zhwshi/) from SYSU, Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. [Jing Liu](http://www.machinereading.ai/) from Microsoft Research Asia, and Mr. Changlong Sun and Mr. Kang Le from Alibaba DAMO Academy.
 
 **Phone**: (+86) 13641651562;  **Personal Email**: pengminlong@outlook.com; [Github](https://github.com/v-mipeng/);  [Google Scholar](https://scholar.google.com.hk/citations?user=ugZ0lVQAAAAJ&hl=en)
 
 ### Research Interest
-- **Robust Natural Language Processing**: Improving the robutness of the NLP models, especially those neural network based models, to attacks and delicate variations.
-- **Low-Resource Natural Language Processing**: Performing NLP tasks with few human resources. 
+- **Robust Natural Language Processing**: Improving the robutness of NLP models, especially the neural network based ones, to attacks and delicate variations.
+- **Low-Resource Natural Language Processing**: Performing NLP tasks with little human resource. 
 
 ### Education 
 
@@ -37,6 +37,8 @@ Please feel free to contact me if you are interested in my research directions. 
 
 ### Selected Publications
 
+- Xin Wang, **Minlong Peng**, Mingming Sun, Ping Li, _OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework_, In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (long paper, **ACL 2022**).
+- 
 - **Minlong Peng**, Qi Zhang, _Weighed Domain-Invariant Representation Learning for Cross-domain Sentiment Analysis_, In Proceedings of the 28th International Conference of Computational Linguistics (long paper, **COLING 2020**).
     
 - **Minlong Peng**, Ruotian Ma, Qi Zhang, Lujun Zhao, Mengxi Wei, Changlong Sun, Xuanjing Huang, _Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons_, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (long paper, **EMNLP 2020(Findings)**).
