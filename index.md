@@ -37,8 +37,10 @@ Please feel free to contact me if you are interested in my research directions. 
 
 ### Selected Publications
 
+- **Minlong Peng**, Zidi Xiong, Mingming Sun, Ping Li, _Label-Smoothed Backdoor Attack_, CORR 2022.
+
 - Xin Wang, **Minlong Peng**, Mingming Sun, Ping Li, _OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework_, In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (long paper, **ACL 2022**).
-- 
+ 
 - **Minlong Peng**, Qi Zhang, _Weighed Domain-Invariant Representation Learning for Cross-domain Sentiment Analysis_, In Proceedings of the 28th International Conference of Computational Linguistics (long paper, **COLING 2020**).
     
 - **Minlong Peng**, Ruotian Ma, Qi Zhang, Lujun Zhao, Mengxi Wei, Changlong Sun, Xuanjing Huang, _Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons_, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (long paper, **EMNLP 2020(Findings)**).
