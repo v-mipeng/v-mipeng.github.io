@@ -31,6 +31,11 @@ Research Intern
 Intern in Knowledge Computing Group
 
 ### News
+- **A paper was accepted by ACL Findings**
+This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the early step of our exploaration to break down facts and reasoning. It seems that the reviewers didn't notice this point :) but it is exactly what I actually want to do!
+
+- **A paper on backdoor attack was rejected by ICML but received quite postive recognition from some peers**
+This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of Poison-Label Backdoor Attacks_, introduces an easy-to-implement method to improve the stealthiness of backdoor attacks. I do it because I like simple but effective method. 
 
 - **I am hiring interns!**
 Please feel free to contact me if you are interested in my research directions. Master and Ph.D. candiates of Computer Science are preferred.
