@@ -16,7 +16,7 @@ This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of 
 
 - **I am hiring interns for studying pre-trained language models** \
 I am conducting research related to pre-trained language models, with a focus on cross-lingual transfer of these models, for example, transferring a language model mainly trained on English corpus to Chinese.
-Please feel free to contact me if you are interested in this research directions. Master and Ph.D. candiates of Computer Science are preferred.
+Please feel free to contact me if you are interested in this research direction. Master and Ph.D. candiates of Computer Science are preferred.
 
 ### Research Interest
 - **Cross-Lingual of Large Language Model**: Transferring English Language Model (e.g., LLaMA) to Chinese.
@@ -79,7 +79,7 @@ Intern in Knowledge Computing Group
 
 - PC Reviewer: AAAI2022, AAAI2021, ACL2020, EMNLP2020, CIKM2020, ACL2019
 
-- SPC Reviewer: IJCAI2021
+- SPC Reviewer: IJCAI2021, IJCAI2023
 
 ### Honors & Awards
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence 
