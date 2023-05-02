@@ -7,9 +7,20 @@ I am now working at the Cognitive Computing Lab, Baidu Inc., as an algorithm exp
 
 **Phone**: (+86) 13641651562;  **Personal Email**: pengminlong@outlook.com; [Github](https://github.com/v-mipeng/);  [Google Scholar](https://scholar.google.com.hk/citations?user=ugZ0lVQAAAAJ&hl=en)
 
+### News
+- **A paper was accepted by ACL Findings** \
+This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the early step of our exploaration to break down facts and reasoning. It seems that the reviewers didn't notice this point :) but it is exactly what I actually want to do!
+
+- **A paper on backdoor attack was rejected by ICML but received quite postive recognition from some peers** \
+This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of Poison-Label Backdoor Attacks_, introduces an easy-to-implement method to improve the stealthiness of backdoor attacks. I do it because I like simple but effective method. 
+
+- **I am hiring interns for studying pre-trained language models** \
+I am conducting research related to pre-trained language models, with a focus on cross-lingual transfer of these models, for example, transferring a language model mainly trained on English corpus to Chinese.
+Please feel free to contact me if you are interested in this research directions. Master and Ph.D. candiates of Computer Science are preferred.
+
 ### Research Interest
+- **Cross-Lingual of Large Language Model**: Transferring English Language Model (e.g., LLaMA) to Chinese.
 - **Robust Natural Language Processing**: Improving the robutness of NLP models, especially the neural network based ones, to attacks and delicate variations.
-- **Low-Resource Natural Language Processing**: Performing NLP tasks with little human resource. 
 
 ### Education 
 
@@ -29,16 +40,6 @@ Research Intern
 
 - **Microsoft Research Asia**, Beijing, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="text-align: right">2015/07 -- 2016/08 </span> \
 Intern in Knowledge Computing Group
-
-### News
-- **A paper was accepted by ACL Findings**
-This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the early step of our exploaration to break down facts and reasoning. It seems that the reviewers didn't notice this point :) but it is exactly what I actually want to do!
-
-- **A paper on backdoor attack was rejected by ICML but received quite postive recognition from some peers**
-This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of Poison-Label Backdoor Attacks_, introduces an easy-to-implement method to improve the stealthiness of backdoor attacks. I do it because I like simple but effective method. 
-
-- **I am hiring interns!**
-Please feel free to contact me if you are interested in my research directions. Master and Ph.D. candiates of Computer Science are preferred.
 
 ### Selected Publications
 
