@@ -9,7 +9,7 @@ I am now working at the Cognitive Computing Lab, Baidu Inc., as an algorithm exp
 
 ### News
 - **A learning project for Parallel Computing was published** \
-I implemented a parallel learning system from scratch based on pytorch, which supports data parallel and tensor parallel. This is a learning project suitable for junior researchers to get familar with parallel computing or researchers who want to implement a parallel system from the scratch instead of using public framework.  
+I implemented a parallel learning system from scratch based on pytorch, which supports data parallel and tensor parallel. This is a learning project suitable for junior researchers to get familar with parallel computing or researchers who want to implement a parallel system from the scratch instead of using public frameworks.  
 
 - **A paper was accepted by ACL Findings** \
 This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the early step of our exploaration to break down facts and reasoning. It seems that the reviewers didn't notice this point :) but it is exactly what I actually want to do!
@@ -21,7 +21,7 @@ This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of 
 I am conducting research related to pre-trained language models, with a focus on cross-lingual transfer of these models, for example, transferring a language model mainly trained on English corpus to Chinese. Please feel free to contact me if you are interested in this research direction. Master and Ph.D. candiates of Computer Science are preferred.
 
 ### Research Interest
-- **Cross-Lingual of Large Language Model**: Transferring English Language Model (e.g., LLaMA) to Chinese.
+- **Cross-Lingual of Pretrained Language Models**: Transferring English Language Model (e.g., LLaMA) to Chinese.
 - **Robust Natural Language Processing**: Improving the robutness of NLP models, especially the neural network based ones, to attacks and delicate variations.
 
 ### Education 
@@ -68,7 +68,6 @@ Intern in Knowledge Computing Group
   
 - **Minlong Peng**, Yaosong Lin, Lanjun Zeng, Tao Gui, and Qi Zhang, _Modeling the Long-Term Post History for Personalized Hashtag Recommendation_, In China National Conference on Chinese Computational Linguistics (**CCL, 2019**).
 
-  
 - Lanjun Zeng, **Minlong Peng**, Yaqi Liu, Liaosha Xu, Zhongyu Wei, Xuanjing Huang, _Personal Hashtag Recommendation based on Few-Shot Learning_, Journal of Chinese Information Processing 2021.
 
 - **Minlong Peng**, Qi Zhang, _Address Instance-level Label Prediction in Multiple Instance Learning_, In Arxiv Preprint 2019.
