@@ -8,6 +8,9 @@ I am now working at the Cognitive Computing Lab, Baidu Inc., as an algorithm exp
 **Phone**: (+86) 13641651562;  **Personal Email**: pengminlong@outlook.com; [Github](https://github.com/v-mipeng/);  [Google Scholar](https://scholar.google.com.hk/citations?user=ugZ0lVQAAAAJ&hl=en)
 
 ### News
+- **A learning project for Parallel Computing was published** \
+I implemented a parallel learning system from scratch based on pytorch, which supports data parallel and tensor parallel. This is a learning project suitable for junior researchers to get familar with parallel computing or researchers who want to implement a parallel system from the scratch instead of using public framework.  
+
 - **A paper was accepted by ACL Findings** \
 This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the early step of our exploaration to break down facts and reasoning. It seems that the reviewers didn't notice this point :) but it is exactly what I actually want to do!
 
@@ -15,8 +18,7 @@ This work, titled _NormNet: Normalize Noun Phrases for More Robust NLP_, is the 
 This work, titled _Learning to Change Label: Addressing Backdoor Overfitting of Poison-Label Backdoor Attacks_, introduces an easy-to-implement method to improve the stealthiness of backdoor attacks. I do it because I like simple but effective method. 
 
 - **I am hiring interns for studying pre-trained language models** \
-I am conducting research related to pre-trained language models, with a focus on cross-lingual transfer of these models, for example, transferring a language model mainly trained on English corpus to Chinese.
-Please feel free to contact me if you are interested in this research direction. Master and Ph.D. candiates of Computer Science are preferred.
+I am conducting research related to pre-trained language models, with a focus on cross-lingual transfer of these models, for example, transferring a language model mainly trained on English corpus to Chinese. Please feel free to contact me if you are interested in this research direction. Master and Ph.D. candiates of Computer Science are preferred.
 
 ### Research Interest
 - **Cross-Lingual of Large Language Model**: Transferring English Language Model (e.g., LLaMA) to Chinese.
